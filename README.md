@@ -9,7 +9,7 @@ PhoDisfluency is a dataset for Vietnamese disfluency detection task, consisting 
         year      = {2022}
 	}  
 
-By downloading the PhoATIS_Disfluency dataset, USER agrees:
+By downloading the PhoDisfluency dataset, USER agrees:
 
 - to use PhoDisfluency for research or educational purposes only.
 - to **not** distribute PhoDisfluency or part of PhoDisfluency in any original or modified form.
