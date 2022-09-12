@@ -1,11 +1,11 @@
 # PhoDisfluency: Disfluency Detection for Vietnamese
 
-PhoDisfluency is a dataset for Vietnamese disfluency detection task, consisting of about 6K Vietnamese utterances with nearly 14K manual annotations over two disfluency types (Reparandum and Interregnum). The construction of PhoDisfluency and experimental results can be found in our [W-NUT 2022 paper](to-be-updated):
+PhoDisfluency is a dataset for Vietnamese disfluency detection task, consisting of about 6K Vietnamese utterances with nearly 14K manual annotations over two disfluency types (Reparandum and Interregnum). The construction of PhoDisfluency and experimental results can be found in our [W-NUT 2022 paper](https://openreview.net/forum?id=h4nCnGS8Ago):
 
 	@inproceedings{PhoDisfluency,
 	    title     = {{Disfluency Detection for Vietnamese}},
 	    author    = {Mai Hoang Dao and Thinh Hung Truong and Dat Quoc Nguyen},
-	    booktitle = {The 8th Workshop on Noisy User-generated Text (W-NUT)},
+	    booktitle = {Proceedings of the 8th Workshop on Noisy User-generated Text (W-NUT)},
         year      = {2022}
 	}  
 
