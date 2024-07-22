@@ -17,7 +17,7 @@ By downloading the PhoDisfluency dataset, USER agrees:
 
 
 
-#### Copyright (c) 2022 VinAI Research
+#### Copyright (c) 2022 VinAI
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
